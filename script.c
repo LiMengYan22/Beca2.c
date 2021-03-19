@@ -10,9 +10,9 @@ void edad (int anios)
     printf("\n  Introduzca Edad: " );
     scanf("%d", &anios );  
     if ( anios >= 18 && anios <=25 )
-        printf( "\n   ALUMNO CON BECA\n" );
+        printf( "\n   ALUMN@ CON BECA\n" );
     else
-        printf( "\n   ALUMNO SIN BECA\n" );
+        printf( "\n   ALUMN@ SIN BECA\n" );
 }
 
  int main() { 
